@@ -1,2 +1,2 @@
 # Manifest2k20
-intercollege event
+intercollege website for displaying event and its description 
